@@ -1,0 +1,39 @@
+{
+	"token": "MTMxMzQ3MzU3NzAyNjA2NDQxNQ.GysGCr.1_bh_Arb5MZJL695Vf6IDJIJk52pyUFFCeOYbk",
+	"prefix": "-",
+	"ticketCategory": "1313494382011355166",
+	"transcriptChannel": "1313495421888233553",
+	"logChannel": "1313547938135539762",
+	"supportRoles": ["1313547397594480721"],
+	"statusCategories": {
+	  "waiting": "1313494487661678623",
+	  "in_progress": "1313494443495657502",
+	  "pending": "1313494473451503647"
+	},
+	"embedColors": {
+        "create": "#00ff00",
+        "close": "#ff0000",
+        "info": "#0099ff",
+        "waiting": "#FFA500",
+        "in_progress": "#00FF00",
+        "pending": "#FFD700"
+    },
+	"devRoles": [],
+	"ticketCreateChannelId": "1313875880484933734",
+	"assignedCategories": {
+        "241957003717509121": "1313792322949091389",
+        "userId2": "categoryId2"
+    },
+    "defaultAssignedCategory": "1313792529950441544",
+    "maxUserTickets": 3,
+    "devNameMapping": {
+        "susu": "susu",
+        "coffeeandmelatonin": "coffee",
+        "fighter96": "fight",
+        "jim_0015": "jim",
+        "astral1470": "astral",
+        "1h6": "1h6",
+        "sox_bie": "sox",
+        "gcloud": "gcloud"
+    }
+  }

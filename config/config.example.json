@@ -1,0 +1,39 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "prefix": "-",
+    "ticketCategory": "CATEGORY_ID",
+    "transcriptChannel": "CHANNEL_ID",
+    "logChannel": "CHANNEL_ID",
+    "supportRoles": ["ROLE_ID"],
+    "statusCategories": {
+      "waiting": "CATEGORY_ID",
+      "in_progress": "CATEGORY_ID",
+      "pending": "CATEGORY_ID"
+    },
+    "embedColors": {
+        "create": "#00ff00",
+        "close": "#ff0000",
+        "info": "#0099ff",
+        "waiting": "#FFA500",
+        "in_progress": "#00FF00",
+        "pending": "#FFD700"
+    },
+    "devRoles": [],
+    "ticketCreateChannelId": "CHANNEL_ID",
+    "assignedCategories": {
+        "USER_ID": "CATEGORY_ID",
+        "userId2": "categoryId2"
+    },
+    "defaultAssignedCategory": "CATEGORY_ID",
+    "maxUserTickets": 3,
+    "devNameMapping": {
+        "susu": "susu",
+        "coffeeandmelatonin": "coffee",
+        "fighter96": "fight",
+        "jim_0015": "jim",
+        "astral1470": "astral",
+        "1h6": "1h6",
+        "sox_bie": "sox",
+        "gcloud": "gcloud"
+    }
+}
